@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+  height: 622px;
+}
+
+.App-logo {
+  /* animation: App-logo-spin infinite 20s linear; */
+  height: 100px;
+  float: left;
+  width: Auto;
+}
+
+
+
+.nav {
+clear: both;
+} 
+
+.App-header {
+  background-color: white;
+  height: 150px;
+  padding: 20px;
+  color: pink;
+  /* background: url('/home/nagham/Desktop/test/public/baby.jpeg'); */
+  background-repeat: no-repeat;  
+  background-size: 100% 100%;
+  height: 20%;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.App-footer {
+  /* background: white; */
+  position: relative;
+  float: right;
+  padding: 10px;
+  width: 100%;
+  margin-top: 0px;
+}
+.footerButtons {
+  position: absolute;
+  right: 0px;
+  padding-bottom: 10px;
+  
+}
+
+body{
+  /* background-color: white; */
+}
